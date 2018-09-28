@@ -21,4 +21,7 @@ background-color: #eaecef;
 figcaption {
   text-align: center;
 }
-p .featured-property
+p #featured-property {
+  width: 800px;
+  text-align: center;
+}
