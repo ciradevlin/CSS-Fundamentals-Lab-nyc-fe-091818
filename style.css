@@ -21,13 +21,12 @@ background-color: #eaecef;
 figcaption {
   text-align: center;
 }
-p #featured-property {
+p featured-property {
   width: 800px;
   text-align: center;
 }
-#details {
+details {
   display: block;
-}
-#details {
-  float: left;
+  float: : left;
+
 }
