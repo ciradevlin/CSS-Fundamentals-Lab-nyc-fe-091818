@@ -21,9 +21,10 @@ background-color: #eaecef;
 figcaption {
   text-align: center;
 }
-p featured-property {
+featured-property {
   width: 800px;
   text-align: center;
+  display: block;
 }
 details + div {
   display: block;
